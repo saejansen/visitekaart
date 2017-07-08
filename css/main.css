@@ -1,0 +1,352 @@
+body {
+  background-color: #E8E4E4;
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  width:100%;
+
+}
+
+#young {
+  width: 1000px;
+  height: auto;
+  z-index: 2;
+  position: relative;
+  top: -100px;
+  align-items: center;
+  display:block;
+  margin:auto;
+}
+.headBan {
+  width: 100%;
+  background-color: black;
+  height: 435px;
+  position: absolute;
+  border: none;
+  left: 0;
+  top: 0;
+}
+.who {
+  color: white;
+  text-align: center;
+  font-weight: 200;
+  font-size: 70px;
+  margin-top: -330px;
+  z-index: 6;
+  position: relative;
+  margin-bottom: 200px;
+}
+.container {
+  width: 100%;
+  height: 350px;
+  background-color: #E8E4E4;
+  margin-top: -300px;
+}
+.stelVoor {
+  color: #908181;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+  line-height: 600px;
+}
+.foto {
+  width: 300px;
+  height: 300px;
+  margin-top: -500px;
+  border-radius: 50%;
+  z-index: 6;
+  align-items: center;
+  display:block;
+  margin:auto;
+}
+.first {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 49%;
+  z-index: 9;
+  width: 5px;
+  height: 5px;
+}
+.karakterEigenschappen {
+  width: 100%;
+  height: 1500px;
+  background-color: white;
+  margin-top: 500px;
+  float: left;
+  border: 0px;
+}
+.second {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 49%;
+  z-index: 9;
+}
+.karakter {
+  color: #908181;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+  line-height: 300px;
+}
+#creatief {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 20%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#leergierig {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 6%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#veelzijdig {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 1px black;
+  margin-left: 6%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.tekst1 {
+  text-align: left;
+  position: absolute;
+  margin-top: 350px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 30px;
+  margin-left: 25%
+}
+.tekst2 {
+  text-align: left;
+  position: absolute;
+  margin-top: 350px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 30px;
+  margin-left: 46%
+}
+.tekst3 {
+  text-align: left;
+  position: absolute;
+  margin-top: 350px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 30px;
+  margin-left: 68%
+}
+.sectie3 {
+  width: 100%;
+  height: 1500px;
+  margin-top: 500px;
+  float: left;
+  border: 0px;
+  background-color: #E8E4E4;
+}
+#creatief {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 20%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#leergierig {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 6%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#veelzijdig {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 1px black;
+  margin-left: 6%;
+  position: relative;
+  float: left;
+  box-shadow: 0 4px 8px 0 #908181, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.tekst1 {
+  text-align: left;
+  position: relative;
+  top: 50px;
+  left: 20px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 30px;
+  margin-left: 25%
+}
+.why {
+  color: #908181;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+  line-height: 300px;
+  position: relative;
+}
+#pijl {
+  width: 100px;
+  height: 100px;
+  z-index: 6;
+  align-items: center;
+  display:block;
+  margin:auto;
+  position: relative;
+  top: -660px;
+}
+.line1 {
+  text-align: left;
+  position: relative;
+  top: -45px;
+  left: 20px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%
+}
+.line2 {
+  text-align: left;
+  position: relative;
+  top: -45px;
+  left: 20px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%
+}
+.line3 {
+  text-align: left;
+  position: relative;
+  top: -45px;
+  left: 20px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%;
+  line-height: 60px;
+}
+.line4 {
+  text-align: center;
+  position: relative;
+  top: -325px;
+  left: 60px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%
+}
+.line5 {
+  text-align: center;
+  position: relative;
+  top: -315px;
+  left: 90px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%
+}
+.line6 {
+  text-align: center;
+  position: relative;
+  top: -315px;
+  left: 60px;
+  color: #908181;
+  font-weight: 200;
+  font-size: 40px;
+  margin-left: 25%
+}
+.third {
+  position: absolute;
+  margin-top: -350px;
+  margin-left: 50%;
+  z-index: 9;
+}
+.sectie4 {
+  background-color: white;
+  width: 100%;
+  height: 1500px;
+  margin-top: 500px;
+  float: left;
+  border: 0px;
+}
+.gif {
+  align-items: center;
+  display:block;
+  margin:auto;
+  position: relative;
+  top: -20px;
+}
+.how {
+  color: #908181;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+  line-height: 300px;
+  position: relative;
+}
+.fourth {
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 50%;
+  z-index: 9;
+}
+.sectie5 {
+  background-color: #E8E4E4;
+  width: 100%;
+  height: 1500px;
+  margin-top: 500px;
+  float: left;
+  border: 0px;
+}
+.what {
+  color: #908181;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+  line-height: 300px;
+  position: relative;
+}
+#skills {
+  align-items: center;
+  display:block;
+  margin:auto;
+  position: relative;
+  top: -50px;
+}
+#busy {
+  width: 300px;
+  height: 200;
+  align-items: center;
+  display:block;
+  margin:auto;
+  position: relative;
+  top: 50px;
+}
+#busy:hover {
+  transform: scale(1.5,1.5);
+  -webkit-transition: transform 0.5s ease-in-out;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+button:focus {outline:0;}
+}
+button:hover {
+  width: 300px;
+}
